@@ -49,6 +49,8 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
+![Screenshot 2024-01-01 214350](https://github.com/rajamanikandanravikumar/ODD2023-WT-Ex-01-Simple-Web-Server/assets/145742839/8ee71cd6-d689-43d2-b2ce-56a9b70682e3)
+
 
 
 
